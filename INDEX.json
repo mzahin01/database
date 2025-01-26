@@ -1,21 +1,9 @@
 {
     "type": "directoryList",
-    "folderPath": "/example/path",
+    "folderPath": "root",
     "folders": [
-        "Documents",
-        "Pictures",
-        "Videos",
-        "Music"
+        "Rasul_SAW"
     ],
-    "shortcuts": [
-        "Downloads",
-        "Desktop",
-        "Favorites"
-    ],
-    "topicList": [
-        "Programming",
-        "Art",
-        "Science",
-        "History"
-    ]
+    "shortcuts": [],
+    "topicJson": []
 }
