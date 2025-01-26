@@ -1,5 +1,13 @@
 {
+    "name": "Sirah",
     "type": "TopicJson",
+    "folderPath": "root/Rasul_SAW",
+    "folders": [],
+    "shortcuts": [],
+    "topicJson": [
+        "Sirah",
+        "Rasul_s"
+    ],
     "events": [
         {
             "start": -2150,

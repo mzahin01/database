@@ -1,0 +1,76 @@
+{
+    "name": "Poddo",
+    "type": "TopicJson",
+    "folderPath": "root/Academic/Inter",
+    "folders": [],
+    "shortcuts": [],
+    "topicJson": [
+        "Goddo",
+        "Poddo"
+    ],
+    "events": [
+        {
+            "start": 1900,
+            "end": 1950,
+            "label": "কাজী নজরুল ইসলাম এর সময়কাল",
+            "article": "nazrul.txt"
+        },
+        {
+            "start": 1861,
+            "end": 1941,
+            "label": "রবীন্দ্রনাথ ঠাকুর এর সময়কাল",
+            "article": "rabindranath.txt"
+        },
+        {
+            "start": 1930,
+            "end": 2000,
+            "label": "জসীম উদ্দীন এর সময়কাল",
+            "article": "jasimuddin.txt"
+        },
+        {
+            "start": 1929,
+            "end": 1976,
+            "label": "সুকান্ত ভট্টাচার্য এর সময়কাল"
+        },
+        {
+            "start": 1911,
+            "end": 1974,
+            "label": "আল মাহমুদ এর সময়কাল"
+        },
+        {
+            "start": 1903,
+            "end": 1956,
+            "label": "জীবনানন্দ দাশ এর সময়কাল"
+        },
+        {
+            "start": 1914,
+            "end": 1976,
+            "label": "আবুল হাসান এর সময়কাল"
+        },
+        {
+            "start": 1926,
+            "end": 1974,
+            "label": "শামসুর রাহমান এর সময়কাল"
+        },
+        {
+            "start": 1936,
+            "end": 2006,
+            "label": "আলাউদ্দিন আল আজাদ এর সময়কাল"
+        },
+        {
+            "start": 1943,
+            "end": 2012,
+            "label": "হাসান আজিজুল হক এর সময়কাল"
+        },
+        {
+            "start": 1952,
+            "end": 2019,
+            "label": "সৈয়দ শামসুল হক এর সময়কাল"
+        },
+        {
+            "start": 1954,
+            "end": 2020,
+            "label": "নির্মলেন্দু গুণ এর সময়কাল"
+        }
+    ]
+}

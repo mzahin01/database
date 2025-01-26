@@ -1,9 +1,9 @@
 {
     "type": "directoryList",
-    "folderPath": "root",
+    "folderPath": "root/Academic",
     "folders": [
-        "Rasul_SAW",
-        "Academic"
+        "Inter",
+        "9_10"
     ],
     "shortcuts": [],
     "topicJson": []
