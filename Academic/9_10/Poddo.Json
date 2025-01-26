@@ -1,7 +1,7 @@
 {
     "name": "Poddo",
     "type": "TopicJson",
-    "folderPath": "root/Academic/9_10",
+    "folderPath": "/Academic/9_10",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
@@ -13,7 +13,7 @@
             "start": -1000,
             "end": -950,
             "label": "চর্যাপদ রচনার সময়কাল",
-            "article": "root.txt"
+            "article": ".txt"
         },
         {
             "start": 1200,

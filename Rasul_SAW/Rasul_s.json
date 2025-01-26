@@ -1,7 +1,7 @@
 {
     "name": "Rasul_s",
     "type": "TopicJson",
-    "folderPath": "root/Rasul_SAW",
+    "folderPath": "/Rasul_SAW",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
@@ -13,7 +13,7 @@
             "start": -2200,
             "end": -2000,
             "label": "নূহ (আঃ) এর সময়কাল",
-            "article": "root.txt"
+            "article": ".txt"
         },
         {
             "start": -1900,

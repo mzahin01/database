@@ -1,7 +1,7 @@
 {
     "name": "Goddo",
     "type": "TopicJson",
-    "folderPath": "root/Academic/Inter",
+    "folderPath": "/Academic/Inter",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
@@ -13,7 +13,7 @@
             "start": 1910,
             "end": 1976,
             "label": "কাজী নজরুল ইসলাম এর সময়কাল",
-            "article": "root.txt"
+            "article": ".txt"
         },
         {
             "start": 1899,
