@@ -1,12 +1,12 @@
 {
-    "name": "Goddo",
+    "name": "gobita",
     "type": "TopicJson",
-    "folderPath": "/Academic/Inter",
+    "folderPath": "/academic/inter",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "Goddo",
-        "Poddo"
+        "gobita",
+        "kobita"
     ],
     "events": [
         {

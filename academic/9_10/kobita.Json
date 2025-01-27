@@ -1,12 +1,12 @@
 {
-    "name": "Poddo",
+    "name": "kobita",
     "type": "TopicJson",
-    "folderPath": "/Academic/9_10",
+    "folderPath": "/academic/9_10",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "Goddo",
-        "Poddo"
+        "gobita",
+        "kobita"
     ],
     "events": [
         {
