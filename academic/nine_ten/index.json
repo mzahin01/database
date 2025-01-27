@@ -1,6 +1,9 @@
 {
     "type": "directoryList",
-    "folderPath": "/academic/nine_ten",
+    "folderPath": [
+        "academic",
+        "nine_ten"
+    ],
     "folders": [],
     "shortcuts": [],
     "topicJson": [

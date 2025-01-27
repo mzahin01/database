@@ -1,7 +1,10 @@
 {
     "name": "kobita",
     "type": "topicJson",
-    "folderPath": "/academic/inter",
+    "folderPath": [
+        "academic",
+        "inter"
+    ],
     "folders": [],
     "shortcuts": [],
     "topicJson": [

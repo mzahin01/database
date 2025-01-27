@@ -1,7 +1,10 @@
 {
     "name": "goddo",
     "type": "topicJson",
-    "folderPath": "/academic/nine_ten",
+    "folderPath": [
+        "academic",
+        "nine_ten"
+    ],
     "folders": [],
     "shortcuts": [],
     "topicJson": [

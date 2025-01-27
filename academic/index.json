@@ -1,6 +1,8 @@
 {
     "type": "directoryList",
-    "folderPath": "/academic",
+    "folderPath": [
+        "academic"
+    ],
     "folders": [
         "inter",
         "nine_ten"

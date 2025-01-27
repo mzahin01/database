@@ -1,6 +1,9 @@
 {
     "type": "directoryList",
-    "folderPath": "/academic/inter",
+    "folderPath": [
+        "academic",
+        "inter"
+    ],
     "folders": [],
     "shortcuts": [],
     "topicJson": [

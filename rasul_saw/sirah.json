@@ -1,7 +1,9 @@
 {
     "name": "sirah",
     "type": "topicJson",
-    "folderPath": "/rasul_saw",
+    "folderPath": [
+        "rasul_saw"
+    ],
     "folders": [],
     "shortcuts": [],
     "topicJson": [
