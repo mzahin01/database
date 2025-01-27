@@ -1,11 +1,11 @@
 {
     "name": "kobita",
-    "type": "TopicJson",
-    "folderPath": "/academic/9_10",
+    "type": "topicJson",
+    "folderPath": "/academic/nine_ten",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "gobita",
+        "goddo",
         "kobita"
     ],
     "events": [

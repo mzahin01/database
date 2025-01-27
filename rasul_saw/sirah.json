@@ -1,12 +1,12 @@
 {
-    "name": "Sirah",
-    "type": "TopicJson",
-    "folderPath": "/Rasul_SAW",
+    "name": "sirah",
+    "type": "topicJson",
+    "folderPath": "/rasul_saw",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "Sirah",
-        "Rasul_s"
+        "sirah",
+        "rasul_s"
     ],
     "events": [
         {

@@ -1,9 +1,9 @@
 {
     "type": "directoryList",
-    "folderPath": "/Academic",
+    "folderPath": "/academic",
     "folders": [
-        "Inter",
-        "9_10"
+        "inter",
+        "nine_ten"
     ],
     "shortcuts": [],
     "topicJson": []

@@ -1,10 +1,10 @@
 {
     "type": "directoryList",
-    "folderPath": "/Academic/9_10",
+    "folderPath": "/academic/nine_ten",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "Goddo",
-        "Poddo"
+        "goddo",
+        "kobita"
     ]
 }

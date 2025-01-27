@@ -1,10 +1,10 @@
 {
     "type": "directoryList",
-    "folderPath": "/Academic/Inter",
+    "folderPath": "/academic/inter",
     "folders": [],
     "shortcuts": [],
     "topicJson": [
-        "Goddo",
-        "Poddo"
+        "goddo",
+        "kobita"
     ]
 }
