@@ -14,23 +14,26 @@
         {
             "start": -2150,
             "end": -1975,
-            "label": "ইব্রাহীম (আঃ) এর সময়কাল"
+            "label": "ইব্রাহীম (আঃ) এর সময়কাল",
+            "eventUID": "0f188934-99f8-56a7-b16e-0665954f5a2f"
         },
         {
             "start": -1400,
             "end": -1301,
-            "label": "মূসা (আঃ) এর সময়কাল"
+            "label": "মূসা (আঃ) এর সময়কাল",
+            "eventUID": "2b52231d-2515-57cd-854a-4c23693c24ae"
         },
         {
             "start": -4,
             "end": 33,
-            "label": "ঈসা (আঃ) এর সময়কাল"
+            "label": "ঈসা (আঃ) এর সময়কাল",
+            "eventUID": "ba649da7-fd79-5d85-be2c-e33485e988f1"
         },
         {
             "start": 530,
             "end": 540,
             "label": "যমযম কূপ খনন",
-            "article": "zamzam.txt"
+            "eventUID": "fc8d28e9-2d14-5dd2-b0c4-091f968545e9"
         },
         {
             "start": 570.5,
@@ -41,600 +44,612 @@
             },
             "end": 632.63,
             "label": "মুহাম্মদ ﷺ এর জীবন",
-            "article": "rasul.txt"
+            "eventUID": "6937dfd3-ff92-5792-b0e6-7aa92766dee5"
         },
         {
             "date": 570.9,
             "label": "পিতা আব্দুল্লাহর মৃত্যু",
-            "article": "abdullah.txt"
+            "eventUID": "f0c9bad3-776a-5d2b-ac0c-8c1157c1b1bf"
         },
         {
             "date": 571.1,
             "label": "হস্তী বাহিনীর ঘটনা",
-            "article": "abraha.txt"
+            "eventUID": "aba30916-34ec-5463-901c-0fbe6b35cbc3"
         },
         {
             "date": 571.5,
             "label": "মুহাম্মদ ﷺ এর জন্ম",
-            "article": "born.txt"
+            "eventUID": "4ce42911-8636-5609-ba4d-dbaeefec2d5b"
         },
         {
             "start": 571.6,
             "end": 576.9,
             "label": "দুধমা হালীমার ঘরে",
-            "article": "halima.txt"
+            "eventUID": "2588be61-8e82-5b0d-b03b-a5bcb16a9d22"
         },
         {
             "start": 571.7,
             "end": 573.7,
             "label": "মা হালীমার দুধপান",
-            "article": "dudhpan.txt"
+            "eventUID": "50a72f8c-fd2a-5320-912e-4eddb767339d"
         },
         {
             "start": 575,
             "end": 576,
             "label": "বক্ষ বিদারণ",
-            "article": "bokkho.txt"
+            "eventUID": "c66ed881-82c6-5cd7-92c5-a9e75a1e73e6"
         },
         {
             "date": 577,
             "label": "মা আমিনার মৃত্যু",
-            "article": "amina.txt"
+            "eventUID": "e82ba205-8396-50ac-9e2c-c4265e548d6b"
         },
         {
             "date": 579,
             "label": "দাদা আব্দুল মুত্তালিবের মৃত্যু",
-            "article": "dada.txt"
+            "eventUID": "1610b932-8783-5d4e-9854-c913c9cad5e0"
         },
         {
             "date": 583,
             "label": "ধর্মযাজক বাহীরা",
-            "article": "bahira.txt"
+            "eventUID": "34812645-1b48-5e54-b352-c2e3cb56a7da"
         },
         {
             "start": 586,
             "end": 589,
             "label": "ফিজার যুদ্ধ",
-            "article": "fizar.txt"
+            "eventUID": "ffcd02af-f0da-554f-886d-b350e61f9f07"
         },
         {
             "date": 590,
             "label": "হিলফুল ফুযূল",
-            "article": "fuzul.txt"
+            "eventUID": "bd7e1970-1b81-51a2-bd98-6f966a211c38"
         },
         {
             "date": 594,
             "label": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা",
-            "article": "siria.txt"
+            "eventUID": "357a48ba-9bdb-54b0-93f1-d141c3b8b36f"
         },
         {
             "date": 596,
             "label": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ",
-            "article": "prothom.txt"
+            "eventUID": "bd84d6ab-ee64-5369-b218-56c7aea82c9d"
         },
         {
             "date": 598,
             "label": "নবিজির প্রথম সন্তান",
-            "article": "putro.txt"
+            "eventUID": "f967f77d-43d5-5c97-916c-919d448a2aa4"
         },
         {
             "date": 605,
             "label": "কাবা ঘরের পুন নির্মাণ",
-            "article": "kaba.txt"
+            "eventUID": "d45deb9b-cf64-579b-8132-4da9fcfc48e1"
         },
         {
             "start": 610.1,
             "end": 610.8,
             "label": "হেরায় নির্জনবাস",
-            "article": "hera.txt"
+            "eventUID": "95e16240-efbc-5122-873a-607d9afc55be"
         },
         {
             "start": 611,
             "end": 632.62,
             "label": "নবুওয়্যাতের জীবন",
-            "article": "prophet.txt"
+            "eventUID": "bceba365-b8f5-5beb-9d3e-cf305a28bf82"
         },
         {
             "start": 611.1,
             "end": 622,
-            "label": "মাক্কি জীবন"
+            "label": "মাক্কি জীবন",
+            "eventUID": "90f8ac49-2562-5bbb-b66d-be59594992a4"
         },
         {
             "start": 611.2,
             "end": 613,
             "label": "গোপন দাওয়াতী কর্মকান্ড",
-            "article": "dawat.txt"
+            "eventUID": "c80a76ba-6176-5b9d-9a8c-22c28c1fc206"
         },
         {
             "date": 611.3,
             "label": "প্রথম মুসলিম ",
-            "article": "prothom_muslim.txt"
+            "eventUID": "1a1c8098-a636-5b05-948a-1a88e9016993"
         },
         {
             "start": 613.1,
             "end": 622,
             "label": "প্রকাশ্য দাওয়াতি কর্মকাণ্ড",
-            "article": "open.txt"
+            "eventUID": "020379ad-da3f-527e-8301-8d0b8ec16542"
         },
         {
             "start": 613.2,
             "end": 613.8,
             "label": "বনু হাসিম গোত্রকে দাওয়াত",
-            "article": "bonu_hashim.txt"
+            "eventUID": "8e1d4e9a-3748-5ed6-a12f-ab8934f35dc1"
         },
         {
             "date": 613.9,
             "label": "সাফা পর্বতের উপর দাওয়াত",
-            "article": "safa.txt"
+            "eventUID": "3cb40165-e3d8-5240-aa0c-0a71d936f40d"
         },
         {
             "date": 614,
             "label": "রাসূলুল্লাহ ﷺ কে বুঝানো",
-            "article": "buj.txt"
+            "eventUID": "c16cd65b-cc7c-5b41-b72f-099d6061f345"
         },
         {
             "start": 614.1,
             "end": 616.7,
             "label": "প্রচণ্ড অত্যাচার",
-            "article": "most.txt"
+            "eventUID": "c18734a0-1d30-57d8-9b0e-9871b825bdd4"
         },
         {
             "date": 614.2,
             "label": "দারুল আরকাম",
-            "article": "arkam.txt"
+            "eventUID": "ecf0c32e-b084-57f5-bdf3-319f3e939451"
         },
         {
             "date": 614.25,
             "label": "হজ্ব যাত্রীদের নিকট দাওয়াতে বাধা",
-            "article": "badha.txt"
+            "eventUID": "f49f8614-69c9-58ed-82ed-6b9f04f2349d"
         },
         {
             "date": 614.3,
             "label": "আবিসিনিয়াতে প্রথম হিজরত",
-            "article": "abisinia.txt"
+            "eventUID": "d9e4cd99-7d4f-5ea7-b7b1-0d84776069fa"
         },
         {
             "date": 614.5,
             "label": "কাফিরদের সিজদাহ",
-            "article": "sijdah.txt"
+            "eventUID": "e0c1b021-4b8b-54ac-9191-18b3ef90f5e0"
         },
         {
             "date": 615,
             "label": "আবিসিনিয়াতে দ্বিতীয় হিজরত",
-            "article": "abisinia2.txt"
+            "eventUID": "3252f22e-11a7-5e0f-bb2e-7279b8d8c0b5"
         },
         {
             "date": 615.2,
             "label": "আবিসিনিয়ায় ষড়যন্ত্র",
-            "article": "dorbar.txt"
+            "eventUID": "8f0e1794-c439-5099-b287-91e2cab2885e"
         },
         {
             "date": 616.5,
             "label": "হামযা (রাঃ) এর ইসলাম গ্রহণ",
-            "article": "hamja.txt"
+            "eventUID": "671ae7f7-a1cc-5248-919a-90e77dc0b8cf"
         },
         {
             "date": 616.6,
             "label": "উমর (রাঃ) এর ইসলাম গ্রহণ",
-            "article": "omar.txt"
+            "eventUID": "08562eb1-4106-542f-afb0-09fcef2637b6"
         },
         {
             "date": 616.8,
             "label": "রাসূলুল্লাহ ﷺ কে প্ৰরোচিত করা",
-            "article": "lov.txt"
+            "eventUID": "3ac6bf00-af67-5940-afb9-a514870d1f7d"
         },
         {
             "date": 616.9,
             "label": "ইহুদী পণ্ডিতদের প্রশ্ন",
-            "article": "ques.txt"
+            "eventUID": "036fc866-50b5-5931-9372-283f03bc445e"
         },
         {
             "start": 617,
             "end": 618.95,
             "label": "বনু হাসিম এর বয়কট",
-            "article": "boycott.txt"
+            "eventUID": "c1622036-0cc9-5a68-a848-1b81a900dc2d"
         },
         {
             "date": 618.8,
             "label": "বয়কট এর অবসান",
-            "article": "done.txt"
+            "eventUID": "609c5de3-03e1-50e5-b308-ba4bc7730664"
         },
         {
             "start": 619,
             "end": 620,
-            "label": "দুঃখের বছর"
+            "label": "দুঃখের বছর",
+            "eventUID": "53b56792-e3dc-5d8a-9f6c-f8c42341854e"
         },
         {
             "date": 619.1,
             "label": "আবু তালিবের মৃত্যু",
-            "article": "talib.txt"
+            "eventUID": "409a8539-d620-5714-8657-0c5c99e05635"
         },
         {
             "date": 619.7,
             "label": "খাদিজা (রাঃ) এর মৃত্যু",
-            "article": "khadija_ra.txt"
+            "eventUID": "584c9788-8110-5d5b-bb92-44df3dd45ecd"
         },
         {
             "date": 619.9,
             "label": "তায়েফে হিজরত",
-            "article": "tayef.txt"
+            "eventUID": "937e2265-012e-58fd-9efc-66b5960f0681"
         },
         {
             "date": 620.3,
             "label": "মিরাজে গমন",
-            "article": "miraj.txt"
+            "eventUID": "8d4c8768-7615-58dd-a888-92e246573326"
         },
         {
             "date": 621.4,
             "label": "আক্বাবার প্রথম বায়আত",
-            "article": "aqaba1.txt"
+            "eventUID": "94f16878-b691-5434-b349-3ee0dc1db7d0"
         },
         {
             "start": 621.7,
             "end": 622.4,
             "label": "মদিনায় দাওয়াতি কাজ",
-            "article": "musab.txt"
+            "eventUID": "cbae31b3-0312-558d-ae42-be67c9c17669"
         },
         {
             "date": 622.5,
             "label": "আক্বাবার দ্বিতীয় বায়আত",
-            "article": "aqaba2.txt"
+            "eventUID": "293120d5-c51c-5986-b1b4-26642849c0db"
         },
         {
             "start": 622.55,
             "end": 632.61,
-            "label": "মাদানি জীবন"
+            "label": "মাদানি জীবন",
+            "eventUID": "2ead8e5e-1bfa-59df-a2f4-915246cba387"
         },
         {
             "date": 622.6,
             "label": "মদিনায় হিজরত",
-            "article": "hijrat.txt"
+            "eventUID": "fe6b1e06-87f5-5906-896e-02fde562a96e"
         },
         {
             "date": 622.7,
             "label": "মসজিদে নববি প্রতিষ্ঠা",
-            "article": "nababi_mosq.txt"
+            "eventUID": "5f17be38-caca-5015-b20f-8df01e32fb97"
         },
         {
             "date": 622.8,
             "label": "মদিনা সনদ",
-            "article": "sanad.txt"
+            "eventUID": "875bfaef-2f25-5b2e-8181-2cf57d1a4f7f"
         },
         {
             "start": 623,
             "end": 624.2,
             "label": "ছোট আকারে যুদ্ধসমূহ",
-            "article": "choto.txt"
+            "eventUID": "f1676d86-bba1-528f-ae96-ff997c04fbc3"
         },
         {
             "date": 623.2,
             "label": "সারিয়্যাতু সীফিল বাহর",
-            "article": "choto1.txt"
+            "eventUID": "f1da4e2c-722b-5533-b0be-b10b19d47837"
         },
         {
             "date": 623.3,
             "label": " সারিয়্যাতু রাবিগ",
-            "article": "choto2.txt"
+            "eventUID": "bcd64dc9-cb51-56d4-9540-1327e14047eb"
         },
         {
             "date": 623.4,
             "label": "সারীয়্যায়ে খার্রার",
-            "article": "choto3.txt"
+            "eventUID": "b7a3ab22-1ffe-513f-8397-bec503dbe990"
         },
         {
             "date": 623.7,
             "label": "গাযওয়ায়ে আবওয়া",
-            "article": "choto4.txt"
+            "eventUID": "33687ecb-82c6-5171-9017-32502900ac41"
         },
         {
             "date": 623.8,
             "label": "গাযওয়ায়ে বুওয়াত",
-            "article": "choto5.txt"
+            "eventUID": "25aba484-43cb-5fa7-8315-26ca9afd3d5f"
         },
         {
             "date": 623.9,
             "label": "গাযওয়ায়ে সাফওয়ান",
-            "article": "choto6.txt"
+            "eventUID": "0bfc7167-f604-59ac-8b55-e37ef688199c"
         },
         {
             "date": 624,
             "label": "গাযওয়ায়ে যিল উশাইরাহ",
-            "article": "choto7.txt"
+            "eventUID": "0837465c-c1fd-5780-a5d1-eb2acc9fa8b9"
         },
         {
             "date": 624.1,
             "label": "নাখলাহ অভিযান",
-            "article": "choto8.txt"
+            "eventUID": "e20d1174-ac64-5251-93a2-10fc25a469fc"
         },
         {
             "date": 624.3,
             "label": "বদরের যুদ্ধ",
-            "article": "bodor.txt"
+            "eventUID": "4d0868b1-7469-54a9-87d0-a03dcc5d1f96"
         },
         {
             "start": 624.5,
             "end": 625.2,
             "label": "বদর ও উহুদের মাঝে যুদ্ধসমূহ",
-            "article": "majher.txt"
+            "eventUID": "b636242a-5f7d-546c-bf1e-f7670b959990"
         },
         {
             "date": 624.55,
             "label": "গাযওয়ায়ে বনী সুলাইমে",
-            "article": "sulaim.txt"
+            "eventUID": "148a554a-6f6e-5f5d-91c7-0a0e8885fb28"
         },
         {
             "date": 624.6,
             "label": "উমায়ের (রাঃ) এর ঘটনা",
-            "article": "umayer.txt"
+            "eventUID": "7c9c3d45-591f-55aa-b1af-bfc481e867dc"
         },
         {
             "date": 624.7,
             "label": "গাযওয়ায়ে বনী ক্বাইনুক্কা",
-            "article": "qainuka.txt"
+            "eventUID": "cdca394f-eb6d-551f-b39c-10eccd6b6df8"
         },
         {
             "date": 624.8,
             "label": "গাযওয়ায়ে সাভীক",
-            "article": "savik.txt"
+            "eventUID": "1d5ee0d7-4183-52cc-8d95-80a6243f4de4"
         },
         {
             "date": 624.9,
             "label": "গাযওয়ায়ে যূ ‘আমর",
-            "article": "zuamar.txt"
+            "eventUID": "04d9c399-d830-543e-b1cc-2de554bab7ad"
         },
         {
             "date": 625,
             "label": "গোস্তাখে রাসুল (কা‘ব ইবনু আশরাফ)",
-            "article": "kab.txt"
+            "eventUID": "ff617701-b036-5e5b-8c93-ac0fbaf3fe28"
         },
         {
             "date": 625.1,
             "label": "গাযওয়ায়ে বাহরান",
-            "article": "bahran.txt"
+            "eventUID": "2dbf23e9-f12b-5dbd-93c7-5602ed03472f"
         },
         {
             "date": 625.15,
             "label": "সারিয়্যাতু যায়দ ইবনু হারিসা",
-            "article": "harisa.txt"
+            "eventUID": "a4a109fc-951d-545a-8b04-d48c9dc80ab7"
         },
         {
             "date": 625.4,
             "label": "উহুদের যুদ্ধ ",
-            "article": "uhud.txt"
+            "eventUID": "e2502935-c426-51aa-9bb2-b71514521e6f"
         },
         {
             "date": 625.6,
             "label": "আবু সালামা (রাঃ) এর অভিযান",
-            "article": "salama.txt"
+            "eventUID": "675713a0-c05d-5ad8-a6d2-8f2b09d2741b"
         },
         {
             "date": 625.65,
             "label": "আব্দুল্লাহ বিন উনাইস (রাঃ) এর অভিযান",
-            "article": "unais.txt"
+            "eventUID": "ef193591-5932-5b5a-8262-8f8f6f2b6a4f"
         },
         {
             "date": 625.7,
             "label": "রাযীর ঘটনা ",
-            "article": "raji.txt"
+            "eventUID": "04960e30-51ee-57ea-8cd9-578ab67c40f9"
         },
         {
             "date": 625.75,
             "label": "বীরে মাউনার ঘটনা",
-            "article": "mauna.txt"
+            "eventUID": "711cd653-bea2-5e39-a051-b2ee5141d87e"
         },
         {
             "date": 625.8,
             "label": "বনু নযীর এর ঘটনা ",
-            "article": "nojir.txt"
+            "eventUID": "4666c43d-1333-5e69-b967-0959a526cf42"
         },
         {
             "date": 625.85,
             "label": "নাজদ যুদ্ধ",
-            "article": "najd.txt"
+            "eventUID": "7410bf1c-1a33-55da-b36f-38e7418afa39"
         },
         {
             "date": 626,
             "label": "২য় বদর যুদ্ধ",
-            "article": "bodor2.txt"
+            "eventUID": "60b1d858-a082-5a83-885e-1f91fd2e2ee5"
         },
         {
             "date": 626.5,
             "label": "গাযওয়ায়ে দুমাতুল জানদাল",
-            "article": "jandal.txt"
+            "eventUID": "6a2f94d1-d86c-525f-a3bc-b366e4352a61"
         },
         {
             "date": 627,
             "label": "খন্দকের যুদ্ধ ",
-            "article": "khandak.txt"
+            "eventUID": "846681ef-540a-548e-9b82-5ef89f0d681d"
         },
         {
             "date": 627.1,
             "label": "বনু কুরাইযাহর যুদ্ধ",
-            "article": "sltr.txt"
+            "eventUID": "21d6d759-edb8-523d-a299-073883771d80"
         },
         {
             "date": 627.4,
             "label": "গোস্তাখে রাসুল (সালাম বিন আবিল হুক্বাইক্ব)",
-            "article": "huqaik.txt"
+            "eventUID": "2549c23d-cde5-56c8-9a89-64397e60efad"
         },
         {
             "date": 627.6,
             "label": "মুহাম্মাদ বিন মাসলামাহ’র অভিযান",
-            "article": "mslmh.txt"
+            "eventUID": "5bf695a5-a9a3-51ce-82d8-4e6dd45e6150"
         },
         {
             "date": 627.7,
             "label": "বনু লাহইয়ান যুদ্ধ",
-            "article": "lahyan.txt"
+            "eventUID": "907d2b2a-7f0c-515f-a78e-86e3df7be225"
         },
         {
             "start": 627.8,
             "end": 628.15,
             "label": "বিভিন্ন ছোট যুদ্ধ (১৩টি)",
-            "article": "sm13.txt"
+            "eventUID": "9219f89d-613b-532b-8a78-f70aba051f1d"
         },
         {
             "date": 628.25,
             "label": "কিছু বিশেষ ঘটনা",
-            "article": "ghotona.txt"
+            "eventUID": "71b3121e-0251-5f8e-8634-2966f4817513"
         },
         {
             "date": 628.3,
             "label": "হজ্ব যাত্রা ",
-            "article": "hajj.txt"
+            "eventUID": "e0e1e47f-7d1e-555f-994e-1944fa2a1859"
         },
         {
             "date": 628.35,
             "label": "উসমান (রাঃ) এর ঘটনা",
-            "article": "usmn.txt"
+            "eventUID": "419af9c0-acb2-5bf7-90cb-53d5da8e4bc4"
         },
         {
             "date": 628.4,
             "label": "হুদাইবিয়ার সন্ধি",
-            "article": "hudaibiya.txt"
+            "eventUID": "5117f1a6-ed42-5fe4-a9f6-5a9406d22982"
         },
         {
             "date": 628.5,
             "label": "রাজা বাদশাদের পত্র প্রেরণ (৮টি)",
-            "article": "potro.txt"
+            "eventUID": "53926ceb-3bd8-523d-a851-283ad6727e93"
         },
         {
             "date": 628.6,
             "label": "যী কারাদ যুদ্ধ (গাবা যুদ্ধ)",
-            "article": "gaba.txt"
+            "eventUID": "38cef9c4-b939-54c7-b149-923b73ae0120"
         },
         {
             "date": 628.7,
             "label": "খায়বারের যুদ্ধ",
-            "article": "khaybar.txt"
+            "eventUID": "5187c7f0-d46a-5fb6-bd74-ad103eead345"
         },
         {
             "start": 628.8,
             "end": 629,
             "label": "বিভিন্ন ছোট যুদ্ধ (৯টি)",
-            "article": "sm9.txt"
+            "eventUID": "360494ab-9c49-5906-8a4e-d763ad2631c4"
         },
         {
             "date": 629.3,
             "label": "কাযা উমরা আদায়",
-            "article": "kaza.txt"
+            "eventUID": "045cda40-c7e5-539a-be59-71403ea8b5bc"
         },
         {
             "start": 629.5,
             "end": 629.7,
             "label": "বিভিন্ন ছোট যুদ্ধ (৪টি)",
-            "article": "sm4.txt"
+            "eventUID": "ad91965f-99c9-59ea-a970-680840ce3e7b"
         },
         {
             "date": 629.8,
             "label": "মুতার যুদ্ধ ",
-            "article": "muta.txt"
+            "eventUID": "7697e94e-525a-522c-b5d2-42fd939f539d"
         },
         {
             "date": 630,
             "label": "মক্কা বিজয় ",
-            "article": "fateh.txt"
+            "eventUID": "31cf161a-3566-5f5f-861a-b3b4ba50f2b8"
         },
         {
             "date": 630.1,
             "label": "হুনাইন যুদ্ধ",
-            "article": "hunain.txt"
+            "eventUID": "52117bef-cbca-5854-8233-f6edb58d0ed1"
         },
         {
             "date": 630.2,
             "label": "ত্বায়িফ যুদ্ধ",
-            "article": "tawif.txt"
+            "eventUID": "9d534798-e29a-56c8-a40a-777e532051ed"
         },
         {
             "date": 630.3,
             "label": "বিভিন্ন গোত্রে যাকাতের কর্মী প্রেরণ",
-            "article": "zakat.txt"
+            "eventUID": "b14d2311-6d51-5554-9210-2c52c161bf27"
         },
         {
             "start": 630.4,
             "end": 630.7,
             "label": "বিভিন্ন ছোট যুদ্ধ (৫টি)",
-            "article": "sm5.txt"
+            "eventUID": "0d1fbfc0-a83a-5645-b6dc-87c65ef224eb"
         },
         {
             "date": 630.8,
             "label": "স্ত্রীদের সাথে ঝগড়া",
-            "article": "jhogra.txt"
+            "eventUID": "d74adde5-4e80-5bda-87fc-0087c32ceef3"
         },
         {
             "date": 630.9,
             "label": "তাবুক যুদ্ধ",
-            "article": "tabuk.txt"
+            "eventUID": "d67456a1-c7a2-59d9-a868-964bb275af15"
         },
         {
             "date": 631.2,
             "label": "মুশরিকদের হজ্জ বন্ধ",
-            "article": "bondho.txt"
+            "eventUID": "baea8391-8811-5436-bdd9-bfbb187ea0cc"
         },
         {
             "date": 631.6,
             "label": "ইসলামের ব্যপক প্রসার",
-            "article": "prosar.txt"
+            "eventUID": "f0fbca6f-28c7-5cd7-a029-3c96d06f7d72"
         },
         {
             "date": 632.2,
             "label": "বিদায় হজ্জ",
-            "article": "last.txt"
+            "eventUID": "35be802d-6971-5206-9d37-f0ae8eb8d03d"
         },
         {
             "date": 632.4,
             "label": "শেষ যুদ্ধ কাফেলা প্রস্তুত",
-            "article": "war.txt"
+            "eventUID": "6c070e13-11c0-5376-8a71-17dfaa1d9e92"
         },
         {
             "date": 632.6,
             "label": "রাসুলুল্লাহ ﷺ এর অন্তিম মুহূর্ত",
-            "article": "sad.txt"
+            "eventUID": "669afd65-3a2c-5554-bf4a-d7de1263fa3e"
         },
         {
             "start": 632.64,
             "end": 661.75,
-            "label": "খেলাফত আমল"
+            "label": "খেলাফত আমল",
+            "eventUID": "aa23046d-a9e9-5ab5-9ba2-968857d9f4c9"
         },
         {
             "start": 632.7,
             "end": 634.6,
-            "label": "আবু বকর (রাঃ) এর খেলাফত"
+            "label": "আবু বকর (রাঃ) এর খেলাফত",
+            "eventUID": "c7ed3264-f526-5720-9581-99393ab44b93"
         },
         {
             "start": 634.7,
             "end": 644,
-            "label": "উমর (রাঃ) এর খেলাফত"
+            "label": "উমর (রাঃ) এর খেলাফত",
+            "eventUID": "4dedee97-0f8e-571e-bebb-1301866a208f"
         },
         {
             "start": 644,
             "end": 656,
-            "label": "উসমান (রাঃ) এর খেলাফত"
+            "label": "উসমান (রাঃ) এর খেলাফত",
+            "eventUID": "5cc45f90-7d33-5f2a-9f8e-6907653185d9"
         },
         {
             "start": 656,
             "end": 661,
-            "label": "আলী (রাঃ) এর খেলাফত"
+            "label": "আলী (রাঃ) এর খেলাফত",
+            "eventUID": "81424049-49a4-5835-bdf5-8f87c0069530"
         },
         {
             "start": 661.1,
             "end": 661.7,
-            "label": "হাসান (রাঃ) এর খেলাফত"
+            "label": "হাসান (রাঃ) এর খেলাফত",
+            "eventUID": "4208ba2c-ebfb-5666-ab81-cc8f69d60da6"
         },
         {
             "start": 661.8,
             "end": 750,
-            "label": "উমাইয়া খেলাফত "
+            "label": "উমাইয়া খেলাফত ",
+            "eventUID": "9df233c3-a930-5ad3-9d76-e85578986339"
         },
         {
             "start": 750.1,
             "end": 1258,
-            "label": "আব্বাসি খেলাফত "
+            "label": "আব্বাসি খেলাফত ",
+            "eventUID": "8cfa4fe7-e28e-50d7-a0ff-521fee2bb5cb"
         },
         {
             "start": 1517,
             "end": 1924,
-            "label": "উসমানী খেলাফত"
+            "label": "উসমানী খেলাফত",
+            "eventUID": "18177d3a-dbcb-53fa-8fa9-762f358632e2"
         }
     ]
 }
