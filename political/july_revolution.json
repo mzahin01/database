@@ -1,13 +1,22 @@
 {
-    "name": "july_revolution",
-    "type": "topicJson",
-    "folderPath": [
-        "political"
-    ],
-    "folders": [],
-    "shortcuts": [],
-    "topicJson": [
-        "july_revolution"
-    ],
-    "events": []
+  "name": "july_revolution",
+  "type": "topicJson",
+  "folderPath": [
+    "political"
+  ],
+  "folders": [],
+  "shortcuts": [],
+  "topicJson": [
+    "july_revolution"
+  ],
+  "events": [
+    {
+      "start": null,
+      "end": null,
+      "label": "All started",
+      "eventUID": "c81b1181-6ef4-5ce4-9030-4d337d5c3607",
+      "asset": null,
+      "date": 2018
+    }
+  ]
 }
